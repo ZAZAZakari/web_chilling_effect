@@ -1,0 +1,24 @@
+{
+  "name": "web_chilling_effect",
+  "version": "1.0.0",
+  "description": "VPN service for everybody",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZAZAZakari/web_chilling_effect.git"
+  },
+  "keywords": [
+    "VPN",
+    "free",
+    "service"
+  ],
+  "author": "Zachary Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZAZAZakari/web_chilling_effect/issues"
+  },
+  "homepage": "https://github.com/ZAZAZakari/web_chilling_effect#readme"
+}
